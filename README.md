@@ -1,3 +1,5 @@
+# This repository is deprecated and archived!
+
 # Online Convert API Android SDK
 
 You can found the compiled version in _releases_ folder.
